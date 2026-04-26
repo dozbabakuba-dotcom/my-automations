@@ -1,0 +1,2 @@
+"""Osobni automatizace."""
+

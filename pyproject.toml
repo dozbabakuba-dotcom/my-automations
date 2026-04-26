@@ -1,0 +1,6 @@
+[project]
+name = "moje-automatizace"
+version = "0.1.0"
+description = "Osobni automatizace"
+requires-python = ">=3.9"
+

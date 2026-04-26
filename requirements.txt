@@ -1,0 +1,3 @@
+openai>=1.109.0
+playwright>=1.51.0
+

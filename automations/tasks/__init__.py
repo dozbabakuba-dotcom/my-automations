@@ -1,0 +1,2 @@
+"""Balicek s jednotlivymi automatizacemi."""
+
